@@ -28,7 +28,6 @@ The initial focus is on providing individuals and families with separate, encryp
 * **Multi-User Support:** Provide individual, private vaults for family members.
 * **Easy Deployment:** Simplify installation and management through Docker.
 * **Cross-Platform:** Support access through modern web browsers.
-* **Expandable:** Build a foundation for browser extensions and mobile applications.
 
 ---
 
@@ -213,7 +212,7 @@ Users should not rely on this software for storing sensitive credentials until t
 
 ## Project Status
 
-** Early Development — Version 0.1.0 (Planned)**
+** Early Development**
 
 The project is currently focused on establishing its Docker infrastructure, backend API, database, and frontend foundation.
 

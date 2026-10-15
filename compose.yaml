@@ -11,6 +11,9 @@ services:
     ports:
     - "8000:8000"
 
+    volumes:
+      - ./frontend/src:/code/frontend:ro
+
     restart: unless-stopped
 
   frontend:
